@@ -20,3 +20,46 @@
     - node server.js
 
 
+
+2. **Medium**: A User-Specific "To-Do List" API.
+
+A Node.js + Express REST API that allows secure user registration, login, and personal to-do management. Supports JWT authentication, bcrypt password hashing, and optional admin role-based access.
+
+---
+
+## Features
+
+- Secure user registration & login (bcrypt + JWT)
+- User-specific to-do list CRUD (in-memory storage)
+- Passwords hashed with `bcrypt`
+- JWT authentication middleware protects to-do routes
+- **Bonus**: Admin role support allows viewing all users’ to-dos
+
+---
+
+## Tech Stack
+
+- **Node.js** + **Express**
+- `bcrypt` for password hashing
+- `jsonwebtoken` for JWT-based auth
+- In-memory arrays for users and to-dos (lightweight)
+
+---
+
+## Endpoints :
+    - Get
+![get](./get.png)
+
+    - Post
+![to-do](./to-do%20post.png)
+![to-do](./to-do2.png)
+
+    - All
+![all](./all.png)
+
+    - Admin
+![admin](./adminn.png)
+
+    - Delete 
+![delete](./delete.png)
+![delete](./del-success.png)
