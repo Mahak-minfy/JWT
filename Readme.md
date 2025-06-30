@@ -23,8 +23,7 @@
 
 
 
-
-2. **Medium**: A User-Specific "To-Do List" API.
+## 2. **Medium**: A User-Specific "To-Do List" API.
 
 A Node.js + Express REST API that allows secure user registration, login, and personal to-do management. Supports JWT authentication, bcrypt password hashing, and optional admin role-based access.
 
