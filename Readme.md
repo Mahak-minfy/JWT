@@ -11,13 +11,13 @@
     
 ### 3. **Created 2 endpoints:** 
     - Register     
-![Register](./register.png)
+![Register](./images/register.png)
 
     - Login
-![Login](./login.png)
+![Login](./images/login.png)
 
 ### 4. **Access the secret quote:**
-![secret](./secret-quote.png)
+![secret](./images/secret-quote.png)
 
 
 
@@ -50,18 +50,18 @@ A Node.js + Express REST API that allows secure user registration, login, and pe
 
 ## Endpoints :
     - Get
-![get](./get.png)
+![get](/images/get.png)
 
     - Post
-![to-do](./to-do%20post.png)
-![to-do](./to-do2.png)
+![to-do](./images/to-do%20post.png)
+![to-do](./images/to-do2.png)
 
     - All
-![all](./all.png)
+![all](./images/all.png)
 
     - Admin
-![admin](./adminn.png)
+![admin](./images/adminn.png)
 
     - Delete 
-![delete](./delete.png)
-![delete](./del-success.png)
+![delete](./images/delete.png)
+![delete](./images/del-success.png)
